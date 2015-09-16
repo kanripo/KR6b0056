@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛五百弟子自說本起經
+#+DATE: 2015-08-30 19:35:34.245509
+#+PROPERTY: JUAN 0
